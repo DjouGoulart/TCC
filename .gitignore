@@ -1,4 +1,2 @@
-*.png
-*.gsheet
 .ipynb_checkpoints
 __pycache__
